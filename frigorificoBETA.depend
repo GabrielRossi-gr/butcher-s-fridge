@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651802441 source:c:\users\gabri\onedrive\documentos\projects\frigorificobeta\main.c
+	<stdio.h>
+	<stdlib.h>
+
